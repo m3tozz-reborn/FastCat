@@ -1,0 +1,136 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    
+    "logo": {
+        "source": "~/.config/fastfetch/ascii.txt",
+        "padding": {
+            "top": 1,
+            "right": 2
+        },
+        "color": {
+            "1": "1",
+        }
+    },
+    
+    "display": {
+        "separator": " ✦ "
+    },
+    
+    "modules": [
+        "break",
+        
+        {
+            "type": "title",
+            "format": "👑 {user-name}@{host-name}",
+            "keyColor": "35"  // Purple
+        },
+        
+        "break",
+        
+        // System - Purple
+        {
+            "type": "custom",
+            "format": "\u001b[35m━━━ System Information ━━━\u001b[0m"
+        },
+        
+        {
+            "type": "os",
+            "key": " ",
+            "keyColor": "35"
+        },
+        
+        {
+            "type": "kernel",
+            "key": " ",
+            "keyColor": "35"
+        },
+        
+        {
+            "type": "uptime",
+            "key": " ",
+            "keyColor": "35"
+        },
+        
+        {
+            "type": "packages",
+            "key": "󰏓 ",
+            "keyColor": "35"
+        },
+        
+        "break",
+        
+        // Desktop - Gold/Yellow
+        {
+            "type": "custom",
+            "format": "\u001b[33m━━ Desktop Environment ━━\u001b[0m"
+        },
+        
+        {
+            "type": "de",
+            "key": "󰧨 ",
+            "keyColor": "33"  // Yellow/Gold
+        },
+        
+        {
+            "type": "wm",
+            "key": "󱂬 ",
+            "keyColor": "33"
+        },
+        
+        {
+            "type": "terminal",
+            "key": " ",
+            "keyColor": "33"
+        },
+        
+        {
+            "type": "shell",
+            "key": "󰞷 ",
+            "keyColor": "33"
+        },
+        
+        "break",
+        
+        // Hardware - Purple
+        {
+            "type": "custom",
+            "format": "\u001b[35m━━━ Hardware Information ━━━\u001b[0m"
+        },
+        
+        {
+            "type": "cpu",
+            "key": "󰻠 ",
+            "keyColor": "35",
+            "format": "{1} ({3})"
+        },
+        
+        {
+            "type": "gpu",
+            "key": "󰢮 ",
+            "keyColor": "35"
+        },
+        
+        {
+            "type": "memory",
+            "key": "󰍛 ",
+            "keyColor": "35"
+        },
+        
+        {
+            "type": "disk",
+            "key": "󰋊 ",
+            "keyColor": "35",
+            "folders": "/"
+        },
+        
+        "break",
+        
+        {
+            "type": "colors",
+            "key": "󰌁 ",
+            "symbol": "block"
+        },
+        
+        "break"
+    ]
+}
