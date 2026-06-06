@@ -125,8 +125,6 @@ Support | Bağış Yap
 Contributors
 --
 
-## Contributors
-
 <table>
   <tr>
     <td align="center">
