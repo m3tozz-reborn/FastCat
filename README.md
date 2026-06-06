@@ -124,9 +124,55 @@ Support | Bağış Yap
 
 Contributors
 --
-<a href="https://github.com/m3tozz/FastCat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=m3tozz/FastCat" />
-</a>
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/m3tozz">
+        <img src="https://avatars.githubusercontent.com/u/79897762?v=4" width="100;" alt="m3tozz"/><br />
+        <sub><b>m3tozz</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bulla0x">
+        <img src="https://github.com/bulla0x.png" width="100;" alt="bulla0x"/><br />
+        <sub><b>bulla0x</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ParsaBordbar">
+        <img src="https://github.com/ParsaBordbar.png" width="100;" alt="ParsaBordbar"/><br />
+        <sub><b>ParsaBordbar</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LierB">
+        <img src="https://github.com/LierB.png" width="100;" alt="LierB"/><br />
+        <sub><b>LierB</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cassiofb-dev">
+        <img src="https://github.com/cassiofb-dev.png" width="100;" alt="cassiofb-dev"/><br />
+        <sub><b>cassiofb-dev</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GazzD">
+        <img src="https://github.com/GazzD.png" width="100;" alt="GazzD"/><br />
+        <sub><b>GazzD</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/obitwicaksono">
+        <img src="https://github.com/obitwicaksono.png" width="100;" alt="obitwicaksono"/><br />
+        <sub><b>obitwicaksono</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 --------------------------------------------------------------------------
 
