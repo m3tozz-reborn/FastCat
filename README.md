@@ -1,0 +1,2 @@
+# FastCat
+FastFetch Theme Pack
