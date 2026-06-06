@@ -13,13 +13,13 @@ FastCat contains its own fastfetch configurations and uploads the selected confi
 <a href="https://www.instagram.com/textzuhree/"><img src="https://img.shields.io/badge/textzuhree-black?&logo=instagram&logoColor=purple" hspace="10"  align="right" /></a>Install (Automatic)
 --
 ```bash
-git clone --depth 1 https://github.com/m3tozz/FastCat.git && cd FastCat && bash ./fastcat.sh --shell
+git clone --depth 1 https://github.com/m3tozz-reborn/FastCat.git && cd FastCat && bash ./fastcat.sh --shell
 ```
 
 Install (Manual)
 --
 ```bash
-git clone https://github.com/m3tozz/FastCat.git 
+git clone https://github.com/m3tozz-reborn/FastCat.git 
 ```
 ```bash
 cd FastCat
