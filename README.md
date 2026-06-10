@@ -1,6 +1,26 @@
+
 # <img src="https://github.com/user-attachments/assets/5e50d491-f22a-46a5-b6ac-135751340da4" hspace="10" width="37"  align="left"/><p><center>FastCat FastFetch Theme Pack.</center>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/1f24e219-07fa-48e4-a5b5-2844e50c7d35"></p>
+<table>
+<tr>
+<td width="140">
+
+<img src="https://avatars.githubusercontent.com/u/79897762?v=4" width="120">
+
+</td>
+<td>
+
+> 💬 **Hi, I'm m3tozz!**
+>
+> My GitHub account is currently suspended.
+>
+> Until my account is reactive, you can access **FastCat** from here.
+>
+> Thanks for your support! 🚀
+
+</td>
+</tr>
+</table>
 
 ---
 
